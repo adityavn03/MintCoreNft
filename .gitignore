@@ -1,2 +1,4 @@
-# Ignore Solana local validator data
+# Ignore Solana build artifacts
+core.so
 test-ledger/
+target/
