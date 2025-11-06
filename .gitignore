@@ -1,4 +1,8 @@
-# Ignore Solana build artifacts
-core.so
-test-ledger/
+node_modules/
+dist/
+.env
+*.log
 target/
+test-ledger/
+core.so
+program-keypair.json
