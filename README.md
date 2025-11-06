@@ -26,7 +26,7 @@ Layer	Technology	Description
 
 ⚡ Quick Start
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/MintCoreNft.git
+git clone https://github.com/adityavn03/MintCoreNft.git
 cd MintCoreNft
 
 2️⃣ Install dependencies
